@@ -1,0 +1,29 @@
+body{
+   font-family: 'Poppins',
+   sans-serif;
+}
+.org{
+    color: orangered;
+
+}
+.felxi{
+display:flex;
+
+}
+h1{
+  font-size: 300%;  
+}
+.half{
+    width: 50%;
+    padding-left:7% ;
+}
+.half img{
+    width:100% ;
+}
+.link-line{
+    background-image:linear-gradient(red,blue);
+    text-decoration: none;
+    padding:10px 20px ;
+    color:white;
+    border-radius:10px; 
+}
