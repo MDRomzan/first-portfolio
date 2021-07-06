@@ -38,6 +38,7 @@ text-align: center;
     color:white;
     border-radius:10px; 
 }
+
 .content img{
    
   max-width: 100%;
@@ -46,10 +47,15 @@ text-align: center;
 .text{
 
     width: 50%;
-   margin-top: -40%; 
-   position: relative; 
-  padding-left:70%;
-  po
+    margin-top: -40%; 
+    position: absolute;
+    padding-left:5% ;
+    
+  
+    
+   
+    
+  
 
 }
 
@@ -59,6 +65,7 @@ text-align: center;
 
  
 .three{
+   
     box-shadow: 1px 5px 60px  gray;
     width:33%;
     padding:10px ;
